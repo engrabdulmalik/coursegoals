@@ -3,6 +3,7 @@ import styled from "styled-components";
 import MyComponent from "./MyComponent";
 import Button from "../../UI/Button/Button";
 import styles from "./CourseInput.module.css";
+import "./CourseInput.module.css"
 
 // const FormControl = styled.div`
 //   margin: 0.5rem 0;
